@@ -6,7 +6,7 @@
 [![codewars](https://www.codewars.com/users/kohmarik/badges/micro)](https://www.codewars.com/users/kohmarik) 
 
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kohmarik)](https://github.com/kohmarik/github-readme)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kohmarik)](https://leetcode.com/kohmarik/)
 
 
 
