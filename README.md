@@ -6,8 +6,8 @@
 [![codewars](https://www.codewars.com/users/kohmarik/badges/micro)](https://www.codewars.com/users/kohmarik) 
 
 
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=kohmarik)](https://github.com/kohmarik/github-readme)
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4)
 
 
 <!--
