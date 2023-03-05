@@ -5,6 +5,11 @@
 
 [![codewars](https://www.codewars.com/users/kohmarik/badges/micro)](https://www.codewars.com/users/kohmarik) 
 
+
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4)
+
+
 <!--
 **EugeneKrivoshein/EugeneKrivoshein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
