@@ -1,5 +1,6 @@
 ### Hi there, I'm <a href="https://t.me/kohmarik" target="_blank">Eugene</a>  👋
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### PHP-developer. I'm from Russia 🇷🇺
 <!--
 **EugeneKrivoshein/EugeneKrivoshein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
