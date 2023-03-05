@@ -1,7 +1,10 @@
 ### Hi there, I'm <a href="https://t.me/kohmarik" target="_blank">Eugene</a>  👋
 
-### PHP Developer. I'm from Russia 
-<h3 align="center">Computer science student, IT news writer from Russia 🇷🇺</h3>
+### PHP Developer. I'm from Russia.
+
+
+[![codewars](https://www.codewars.com/users/kohmarik/badges/micro)](https://www.codewars.com/users/kohmarik) 
+
 <!--
 **EugeneKrivoshein/EugeneKrivoshein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
