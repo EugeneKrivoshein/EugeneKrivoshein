@@ -1,6 +1,6 @@
 ### Hi there, I'm <a href="https://t.me/kohmarik" target="_blank">Eugene</a>  👋
 
-### PHP Developer.
+### Backend Developer.
 
 
 [![codewars](https://www.codewars.com/users/kohmarik/badges/micro)](https://www.codewars.com/users/kohmarik) 
